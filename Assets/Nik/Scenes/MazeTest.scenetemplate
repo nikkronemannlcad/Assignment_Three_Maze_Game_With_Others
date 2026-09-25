@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: MazeTest
+  m_EditorClassIdentifier: UnityEditor.dll::UnityEditor.SceneTemplate.SceneTemplateAsset
+  templateScene: {fileID: 102900000, guid: 8c9cfa26abfee488c85f1582747f6a02, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 91454f0040e69e242b56b57cda3122d5, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 0905f4086b6cbaf4e905b17dfe15fc6f, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 3c7435d2d754a5f41bc701eb5fd14812, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 1e2d3c23906667a48bd73ee787a31cbe, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 2ba29a5b9b96932488f06c638bacc609, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 40265a896a0f341bb956e90c59025a29, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 9314e47167eb7d54fa1e4b4bdbb92bc2, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 9cc7ebd7286a6f14ebaf4e23e1978f42, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
