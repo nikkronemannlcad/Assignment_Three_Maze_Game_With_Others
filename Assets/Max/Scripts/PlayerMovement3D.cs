@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovement3D : MonoBehaviour
 {
     public float     floorHeight = -10f;
 
