@@ -6,7 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Main Menu.unity
+    guid: acb45b2394940744c9b842cd928b5ad2
+  - enabled: 1
+    path: Assets/Scenes/Max's Scene.unity
+    guid: b1199eb6c82f89744bf4f64598166ee6
+  - enabled: 1
+    path: Assets/Scenes/Nik's Scene.unity
+    guid: f07c1f18d62e4ed4f81a2fe9410871ea
+  - enabled: 1
+    path: Assets/Scenes/Transition Scene.unity
+    guid: 85963bda048cc0141bfac59488814c83
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
